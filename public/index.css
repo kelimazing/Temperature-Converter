@@ -1,0 +1,9 @@
+#root {
+  background-color: #d9f0fc;
+  height: 100%;
+  padding-top: 50px;
+}
+
+.shadow {
+  box-shadow: 0.25em 0.25em 0.75em;
+}
